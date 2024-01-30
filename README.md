@@ -1,9 +1,3 @@
-               __                
-  ______ _____/  |_ __ ________  
- /  ___// __ \   __\  |  \____ \ 
- \___ \\  ___/|  | |  |  /  |_> >
-/____  >\___  >__| |____/|   __/ 
-     \/     \/           |__|    
 
 Personal Computer Specifications:
 Central Proccesing Unit: Ryzen AMD Ryzen 5 2600X (12) @ 3.60 GHz
