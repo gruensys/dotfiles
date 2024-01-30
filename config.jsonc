@@ -1,0 +1,123 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    // "logo": {
+    //     "type": "iterm",
+    //     "source": "/Users/carter/Desktop/apple1.png",
+    //     "width": 28,
+    //     "height": 12
+    // },
+    "logo":{
+        "source": "/home/Finn/fetch.txt",
+        "separate": false
+    },
+    "display": {
+        "separator": " "
+    },
+    "modules": [
+
+        "break",
+
+            {
+            "type": "title",
+            "key": "",
+            "format": "{1}@{2}",
+            "keyColor": "blue"
+        },
+                {
+            "type": "os",
+            "key": "󰣇",
+            "keyColor": "blue"
+        },
+                {
+            "type": "display",
+            "key": "󰍹",
+            "keyColor": "blue"
+        },
+        {
+            "type": "kernel",
+            "key": "",
+            "format": "{1} {2}",
+            "keyColor": "blue"
+        },
+        {
+            "type": "cpu",
+            "key": "",
+            "keyColor": "blue"
+        },
+        {
+            "type": "gpu",
+            "key": "﬙",
+            "keyColor": "blue"
+        },
+        {
+            "type": "memory",
+            "key": "󰑭",
+            "keyColor": "blue"
+        },
+
+        {
+            "type": "brightness",
+            "key": "󰃞",
+            "keyColor": "blue"
+        },
+        {
+            "type": "battery",
+            "key": "",
+            "keyColor": "green"
+        },
+        {
+            "type": "gamepad",
+            "key": "",
+            "keyColor": "green"
+        },
+        {
+            "type": "bluetooth",
+            "key": "",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "shell",
+            "key": "",
+            "keyColor": "blue"
+        },
+        {
+            "type": "terminal",
+            "key": "",
+            "keyColor": "blue"
+        },
+        {
+            "type": "lm",
+            "key": "󰧨",
+            "keyColor": "blue"
+        },
+        {
+            "type": "wm",
+            "key": "",
+            "keyColor": "blue"
+        },
+
+
+        {
+            "type": "packages",
+            "key": "󰏖",
+            "keyColor": "blue"
+        },
+        {
+            "type": "uptime",
+            "key": "󰅐",
+            "keyColor": "blue"
+        },
+        {
+            "type": "media",
+            "key": "󰝚",
+            "keyColor": "blue"
+        },
+
+        {
+            "type": "locale",
+            "key": "",
+            "keyColor": "blue"
+        }
+    ]
+}
